@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/File Type Analyzer (Kotlin)/*
+!/File Type Analyzer (Kotlin)/task/
+/File Type Analyzer (Kotlin)/task/*
+!/File Type Analyzer (Kotlin)/task/src
